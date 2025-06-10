@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Tutorial API de OpenAI 2025 🚀
 
 ![Banner](https://github.com/user-attachments/assets/34380b40-5165-4e34-9a55-3716aa707506)
@@ -76,3 +77,4 @@ Este repositorio contiene el código y los recursos utilizados en la serie de tu
 
 ## 🤝 Contribuciones
 ¡Contribuciones son bienvenidas!
+=======
